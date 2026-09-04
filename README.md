@@ -58,19 +58,6 @@ I love taking ideas all the way from **problem → architecture → implementati
 
 ---
 
-### 🚀 Featured Projects
-
-- 🔐 **[StegoShield](https://github.com/CodeXRama)** — AI-based image steganography detection using custom CNN architectures, trained on 8,000+ images with High-Pass Filtering (HPF) for residual feature extraction.  
-  `Python` • `TensorFlow` • `OpenCV` • `NumPy`
-
-- ⚡ **[FluxFS](https://github.com/CodeXRama)** — Intelligent distributed storage system integrating node health monitoring, ML-based failure-risk prediction, dynamic chunking, and gRPC IPC.  
-  `C++` • `Python` • `gRPC` • `Docker` • `PostgreSQL`
-
-- 🎓 **[EduSaar](https://github.com/CodeXRama)** — AI-powered learning assistant providing personalized study planning, conversational NLP guidance, and student progress tracking.  
-  `Python` • `NLP` • `Machine Learning` • `React`
-
----
-
 ### 📊 Activity & Stats
 
 <div align="center">
